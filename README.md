@@ -1,4 +1,4 @@
-# formatprg.vim
+# gq.vim
 
 Did you know Vim comes with a built-in formatter?
 
