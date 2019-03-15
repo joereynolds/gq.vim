@@ -1,0 +1,23 @@
+*gq.txt*    For Vim version 7.x     Last Change 2019 March 15
+*gq*
+
+gq.vim - A sensible set of formatprgs
+
+===============================================================================
+1. Global Options                                                *gq-options*
+
+A global option is available for each filetype supported by gq.vim.
+These are:
+
+    g:gq_css_formatprg
+    g:gq_html_formatprg
+    g:gq_javascript_formatprg
+    g:gq_json_formatprg
+    g:gq_markdown_formatprg
+    g:gq_php_formatprg
+    g:gq_sql_formatprg
+    g:gq_typescript_formatprg
+
+You can change the formatter for each, i.e.
+
+i.e. `let g:css_formatprg = css-beautifier`

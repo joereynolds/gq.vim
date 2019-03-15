@@ -26,6 +26,13 @@ Plug 'joereynolds/gq.vim'
 | `SQL`  | `pg_format`  |
 | `Typescript`  | `prettier`  |
 
+## Formatters
+
+[pg_format](https://github.com/darold/pgFormatter)
+[prettier](https://github.com/prettier/prettier)
+
 ## Finally
 
 See `:help gq`.
+
+
