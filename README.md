@@ -15,16 +15,16 @@ Plug 'joereynolds/gq.vim'
 
 ## Supported filetypes
 
-| Filetype  | Formatter |
-| ------------- | ------------- |
-| `CSS`  | `prettier`  |
-| `HTML`   | `prettier`  |
-| `Javascript`  | `prettier`  |
-| `JSON`  | `prettier`  |
-| `Markdown`  | `prettier`  |
-| `PHP`  | `prettier` (With [plugin-php](https://github.com/prettier/plugin-php))  |
-| `SQL`  | `pg_format`  |
-| `Typescript`  | `prettier`  |
+| Filetype     | Formatter                                                              |
+| ------------ | ---------------------------------------------------------------------- |
+| `CSS`        | `prettier`                                                             |
+| `HTML`       | `prettier`                                                             |
+| `Javascript` | `prettier`                                                             |
+| `JSON`       | `prettier`                                                             |
+| `Markdown`   | `prettier`                                                             |
+| `PHP`        | `prettier` (With [plugin-php](https://github.com/prettier/plugin-php)) |
+| `SQL`        | `pg_format`                                                            |
+| `Typescript` | `prettier`                                                             |
 
 ## Formatters
 
@@ -35,5 +35,3 @@ Plug 'joereynolds/gq.vim'
 ## Finally
 
 See `:help gq`.
-
-
