@@ -29,6 +29,7 @@ Plug 'joereynolds/gq.vim'
 ## Formatters
 
 [pg_format](https://github.com/darold/pgFormatter)
+
 [prettier](https://github.com/prettier/prettier)
 
 ## Finally
