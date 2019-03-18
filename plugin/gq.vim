@@ -14,7 +14,7 @@ let s:filetypes = {
             \'css': s:gq_prettier,
             \'html': s:gq_prettier,
             \'javascript': s:gq_prettier,
-            \'json': s:gq_pg_format,
+            \'json': s:gq_prettier,
             \'markdown': s:gq_prettier,
             \'php': s:gq_prettier,
             \'sql': s:gq_pg_format,
